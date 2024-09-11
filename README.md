@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Ollie and I am a first-year graduate student at Columbia University, studying Computer Science. I am part of a Bridge program which is designed to equip students without a formal background in CS with the necessary tools to succeed in the Master's program. Once I have completed my Bridge coursework, I will be transitioning into the Master's program on the Machine Learning Track. Passionate about the climate crisis and seeing the boundless potential of AI, I aim to leverage my studies to develop (artificially) intelligent solutions to the climate crisis.
+
+🌱 I’m currently learning the ins and outs of Java and Python.
+🤔 I’m looking for help with what to learn next to become an ML engineer.
+💬 Ask me about post-war Japanese Literature! 
+⚡ Fun fact: I can speak 4 languages (not including programming ones)
+
+📫 How to reach me: on2207@columbia.edu or linkedin.com/in/onardin
+
